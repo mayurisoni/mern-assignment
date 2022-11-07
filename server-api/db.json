@@ -1,0 +1,566 @@
+{
+  "users": [
+    {
+      "email": "sonimayuri403@gmail.com",
+      "password": "$2a$10$5SbaREMVC0nAcf.RqtPgjOn9OBmKWmhTR9jYL0lh9Hj5p5eg/H37y",
+      "name": "mayuri soni",
+      "confirmpassword": "123456789",
+      "roleradio": "Mentor",
+      "id": 1
+    },
+    {
+      "email": "rishi@gmail.com",
+      "password": "$2a$10$s9jdKIRefPBm9ReMPzxg8uVm8bd0bEiUvzEItwl1VmLfxe70QZveq",
+      "name": "rishi",
+      "confirmpassword": "1234567889",
+      "roleradio": "Employee",
+      "id": 2
+    },
+    {
+      "email": "preeti@gmail.com",
+      "password": "$2a$10$csnjK/qV6WGPOFYktWzZsOGMYamHZDK8p2WbwDbEB2QTXc.T43d82",
+      "name": "preeti",
+      "confirmpassword": "",
+      "roleradio": "Mentor",
+      "id": 3
+    },
+    {
+      "email": "ccd@gmail.com",
+      "password": "$2a$10$6LTbz1oHfinn2Di.pk27heJWXsdy.09y9y1OnKjiQV3ojXX.qJPpi",
+      "name": "mauri",
+      "confirmpassword": "",
+      "roleradio": "Mentor",
+      "id": 4
+    },
+    {
+      "email": "bhavin@gmail.com",
+      "password": "$2a$10$5/0DsniUORnxzRtQQVvKRulMGNbwDe485wR2p3nc3Q.zCYDt0et0m",
+      "name": "bhavin soni",
+      "confirmpassword": "",
+      "roleradio": "Employee",
+      "id": 5
+    },
+    {
+      "email": "heena@gmail.com",
+      "password": "$2a$10$DDVZ9oGQoMsSlfFEbkrX..d3Hsce2TOD9SItFIg7lONgZJ8mxVXua",
+      "name": "heena",
+      "confirmpassword": "",
+      "roleradio": "Mentor",
+      "id": 6
+    },
+    {
+      "email": "vishnu@gmail.com",
+      "password": "$2a$10$o8GDQwP3s0dd8dhUyaXoUOiq/iBA6KZyD0AjLx9qd0I8EkAIzyf52",
+      "name": "vishnu",
+      "confirmpassword": "",
+      "roleradio": "Employee",
+      "id": 7
+    }
+  ],
+  "projects": [
+    {
+      "projectName": "hellow",
+      "projectDescription": "dfgdg",
+      "startdate": "08/17/2022",
+      "enddate": "08/31/2022",
+      "Members": [
+        "mayuri soni",
+        "rishi"
+      ],
+      "technology": [
+        {
+          "technologyName": "javscript",
+          "Resources": [
+            "sad,",
+            "asas",
+            "dffds"
+          ],
+          "status": "Enable",
+          "id": 3
+        },
+        {
+          "technologyName": "angular",
+          "Resources": [
+            "assignment",
+            "codeevolution",
+            "wind"
+          ],
+          "status": "Disable",
+          "id": 6
+        }
+      ],
+      "status": "upcoming",
+      "id": 3
+    },
+    {
+      "projectName": "project Breeze",
+      "projectDescription": "dsfds\nsdfssg",
+      "startdate": "2022-08-17T18:30:00.000Z",
+      "enddate": "2022-08-18T18:30:00.000Z",
+      "Members": [
+        "rishi"
+      ],
+      "technology": [
+        "gd"
+      ],
+      "id": 4
+    },
+    {
+      "projectName": "managemnet",
+      "projectDescription": "dssfd",
+      "startdate": "08/26/2022",
+      "enddate": "08/30/2022",
+      "Members": [
+        "rishi",
+        "mayuri soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "angular",
+          "Resources": [
+            "sdgdfsgfdgdf",
+            "gfdgfgdfgd",
+            "fdgfdhfhgfdhgdhdr"
+          ],
+          "status": "Disable",
+          "id": 6
+        },
+        {
+          "technologyName": "android",
+          "Resources": [
+            "asdadad",
+            "adasasadsas",
+            "adadasdasadfdfa",
+            "dsfsfsfsdf"
+          ],
+          "status": "Enable",
+          "id": 9
+        },
+        {
+          "technologyName": "Vue",
+          "Resources": [
+            "sassass",
+            "sfdsafdsda",
+            "safdsadsfdafsad"
+          ],
+          "status": "Enable",
+          "id": 7
+        }
+      ],
+      "status": "hold",
+      "id": 5
+    },
+    {
+      "projectName": "cruddd",
+      "projectDescription": "dassajijkjijij",
+      "startdate": "08/09/2022",
+      "enddate": "08/29/2022",
+      "Members": [
+        "mayuri soni",
+        "bhavin soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "php",
+          "Resources": [
+            "saxsa",
+            "dsasas",
+            "asdasddsa"
+          ],
+          "status": "Enable",
+          "id": 10
+        },
+        {
+          "technologyName": "android",
+          "Resources": [
+            "asdadad",
+            "adasasadsas",
+            "adadasdasadfdfa",
+            "dsfsfsfsdf"
+          ],
+          "status": "Enable",
+          "id": 9
+        }
+      ],
+      "status": "ongoing",
+      "id": 7
+    },
+    {
+      "projectName": "biiling system",
+      "projectDescription": "vdfddv",
+      "startdate": "08/08/2022",
+      "enddate": "08/29/2022",
+      "Members": [
+        "bhavin soni",
+        "mayuri soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "javscript",
+          "Resources": [
+            "sad,",
+            "asas",
+            "dffds"
+          ],
+          "status": "Enable",
+          "id": 3
+        },
+        {
+          "technologyName": "Vue",
+          "Resources": [
+            "sassass",
+            "sfdsafdsda",
+            "safdsadsfdafsad"
+          ],
+          "status": "Enable",
+          "id": 7
+        }
+      ],
+      "status": "completed",
+      "id": 14
+    },
+    {
+      "projectName": "mern assignment",
+      "projectDescription": "dgf",
+      "startdate": "2022-08-17T18:30:00.000Z",
+      "enddate": "2022-08-16T18:30:00.000Z",
+      "Members": [
+        "mauri"
+      ],
+      "technology": [
+        {
+          "technologyName": "javscript",
+          "Resources": [
+            "sad,",
+            "asas",
+            "dffds"
+          ],
+          "status": "Enable",
+          "id": 3
+        }
+      ],
+      "id": 16
+    },
+    {
+      "projectName": "trends",
+      "projectDescription": "dfdgdgd",
+      "startdate": "2022-08-18T18:30:00.000Z",
+      "enddate": "2022-08-25T18:30:00.000Z",
+      "Members": [
+        "vishnu",
+        "bhavin soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "sdffffff",
+          "Resources": [
+            "dsds"
+          ],
+          "status": "Enable",
+          "id": 4
+        }
+      ],
+      "id": 17
+    },
+    {
+      "projectName": "welcome",
+      "projectDescription": "cvcv",
+      "startdate": "2022-08-23T18:30:00.000Z",
+      "enddate": "2022-08-23T18:30:00.000Z",
+      "Members": [
+        "bhavin soni",
+        "mauri"
+      ],
+      "technology": [
+        {
+          "technologyName": "angular",
+          "Resources": [
+            "assignment",
+            "codeevolution",
+            "wind"
+          ],
+          "status": "Disable",
+          "id": 6
+        }
+      ],
+      "id": 18
+    },
+    {
+      "projectName": "mern assignmentttt",
+      "projectDescription": "jhkjhkjh",
+      "startdate": "2022-08-23T18:30:00.000Z",
+      "enddate": "2022-08-24T18:30:00.000Z",
+      "status": "",
+      "Members": [
+        "heena",
+        "preeti"
+      ],
+      "technology": [
+        {
+          "technologyName": "android",
+          "Resources": [
+            "asdadad",
+            "adasasadsas",
+            "adadasdasadfdfa",
+            "dsfsfsfsdf"
+          ],
+          "status": "Enable",
+          "id": 9
+        }
+      ],
+      "undefined": "ongoing",
+      "id": 19
+    },
+    {
+      "projectName": "mern assignmentds",
+      "projectDescription": "sdfsf",
+      "startdate": "2022-08-23T18:30:00.000Z",
+      "enddate": "2022-08-30T18:30:00.000Z",
+      "status": "",
+      "Members": [
+        "heena",
+        "bhavin soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "android",
+          "Resources": [
+            "asdadad",
+            "adasasadsas",
+            "adadasdasadfdfa",
+            "dsfsfsfsdf"
+          ],
+          "status": "Enable",
+          "id": 9
+        },
+        {
+          "technologyName": "Vue",
+          "Resources": [
+            "sassass",
+            "sfdsafdsda",
+            "safdsadsfdafsad"
+          ],
+          "status": "Enable",
+          "id": 7
+        }
+      ],
+      "undefined": "ongoing",
+      "id": 20
+    },
+    {
+      "projectName": "dffff",
+      "projectDescription": "HVHGVH",
+      "startdate": "2022-08-23T18:30:00.000Z",
+      "enddate": null,
+      "status": "ongoing",
+      "Members": [
+        "heena"
+      ],
+      "technology": [
+        {
+          "technologyName": "android",
+          "Resources": [
+            "asdadad",
+            "adasasadsas",
+            "adadasdasadfdfa",
+            "dsfsfsfsdf"
+          ],
+          "status": "Enable",
+          "id": 9
+        }
+      ],
+      "id": 21
+    },
+    {
+      "projectName": "mern assignment",
+      "projectDescription": " n nb",
+      "startdate": "08/17/2022",
+      "enddate": "08/30/2022",
+      "Members": [
+        "bhavin soni",
+        "mayuri soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "android",
+          "Resources": [
+            "asdadad",
+            "adasasadsas",
+            "adadasdasadfdfa",
+            "dsfsfsfsdf"
+          ],
+          "status": "Enable",
+          "id": 9
+        }
+      ],
+      "status": "upcoming",
+      "id": 24
+    },
+    {
+      "projectName": "learn ",
+      "projectDescription": "dasdada",
+      "startdate": "2022-08-24T18:30:00.000Z",
+      "enddate": "2022-08-30T18:30:00.000Z",
+      "status": "upcoming",
+      "Members": [
+        "bhavin soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "php",
+          "Resources": [
+            "saxsa",
+            "dsasas",
+            "asdasddsa"
+          ],
+          "status": "Enable",
+          "id": 10
+        }
+      ],
+      "id": 25
+    },
+    {
+      "projectName": "learn",
+      "projectDescription": "cxzxcz",
+      "startdate": "08/21/2022",
+      "enddate": "08/24/2022",
+      "Members": [
+        "mayuri soni",
+        "bhavin soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "angular",
+          "Resources": [
+            "assignment",
+            "codeevolution",
+            "wind"
+          ],
+          "status": "Disable",
+          "id": 6
+        }
+      ],
+      "status": "upcoming",
+      "id": 26
+    },
+    {
+      "projectName": "mern assignment",
+      "projectDescription": "sxx",
+      "startdate": "08/21/2022",
+      "enddate": "08/21/2022",
+      "Members": [
+        "heena",
+        "mayuri soni"
+      ],
+      "technology": [
+        {
+          "technologyName": "node",
+          "Resources": [
+            "cbx"
+          ],
+          "status": "Enable",
+          "id": 12
+        }
+      ],
+      "status": "ongoing",
+      "id": 27
+    },
+    {
+      "projectName": "vxdvxc",
+      "projectDescription": "vxc",
+      "startdate": "09/21/2022",
+      "enddate": null,
+      "status": "",
+      "Members": [],
+      "technology": [],
+      "id": 28
+    }
+  ],
+  "technologies": [
+    {
+      "technologyName": "angular",
+      "Resources": [
+        "assignment",
+        "codeevolution",
+        "wind",
+        "fhggf"
+      ],
+      "status": "Disable",
+      "id": 6
+    },
+    {
+      "technologyName": "Vue",
+      "Resources": [
+        "sassass",
+        "sfdsafdsda",
+        "safdsadsfdafsad"
+      ],
+      "status": "Enable",
+      "id": 7
+    },
+    {
+      "technologyName": "android",
+      "Resources": [
+        "asdadad",
+        "adasasadsas",
+        "adadasdasadfdfa",
+        "dsfsfsfsdf"
+      ],
+      "status": "Enable",
+      "id": 9
+    },
+    {
+      "technologyName": "php",
+      "Resources": [
+        "saxsa",
+        "dsasas",
+        "asdasddsa"
+      ],
+      "status": "Enable",
+      "id": 10
+    },
+    {
+      "technologyName": "javscript",
+      "Resources": [
+        "dsds"
+      ],
+      "status": "Enable",
+      "id": 11
+    }
+  ],
+  "task": [
+    {
+      "TaskName": "login",
+      "estimatedduration": "3",
+      "finaltime": "4",
+      "comment": "gfdv",
+      "developerName": "preeti",
+      "date": "2022-08-15T18:30:00.000Z",
+      "projectName": "cruddd",
+      "projectId": "7",
+      "id": 2
+    },
+    {
+      "TaskName": "dashboard",
+      "estimatedduration": "3",
+      "finaltime": "5",
+      "comment": "gfgdf",
+      "developerName": "bhavin soni",
+      "date": "2022-08-30T18:30:00.000Z",
+      "projectName": "hello",
+      "projectId": "3",
+      "id": 4
+    },
+    {
+      "TaskName": "login",
+      "estimatedduration": "1",
+      "finaltime": "2",
+      "comment": "hjhjhj",
+      "developerName": "bhavin soni",
+      "date": "2022-08-30T18:30:00.000Z",
+      "projectName": "hellow",
+      "projectId": "3",
+      "id": 5
+    }
+  ]
+}
